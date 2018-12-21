@@ -3,7 +3,7 @@
 //  ThumbnailBlurEffectDemo
 //
 //  Created by Brian Sachetta on 12/5/18.
-//  Copyright © 2018 SachettaDesign. All rights reserved.
+//  Copyright © 2018 Bose. All rights reserved.
 //
 
 import UIKit
